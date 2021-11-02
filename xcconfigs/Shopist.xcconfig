@@ -1,0 +1,5 @@
+RUM_APPLICATION_ID= // the RUM Application ID obtained on datadoghq.com
+DATADOG_CLIENT_TOKEN= // the Client Token, generated for RUM_APPLICATION_ID
+DSYM_UPLOAD_DATADOG_API_KEY=// the API Key generated for the same org as RUM Application ID
+SHOPIST_BASE_URL=some.url // use Shopist endpoint without protocol
+#include? "Shopist.local.xcconfig"

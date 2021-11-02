@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DatadogSDK",
+        "repositoryURL": "https://github.com/DataDog/dd-sdk-ios.git",
+        "state": {
+          "branch": "dogfooding",
+          "revision": "575783f7c6c50fed3f29f7ab5e6ae657157fbec9",
+          "version": null
+        }
+      },
+      {
+        "package": "Kronos",
+        "repositoryURL": "https://github.com/lyft/Kronos.git",
+        "state": {
+          "branch": null,
+          "revision": "b7f54653a8bb503f42b59ab3160eb11f333b9d3f",
+          "version": "4.2.1"
+        }
+      },
+      {
+        "package": "PLCrashReporter",
+        "repositoryURL": "https://github.com/microsoft/plcrashreporter.git",
+        "state": {
+          "branch": null,
+          "revision": "d747ab5de269cd44022bbe96ff9609d8626694ab",
+          "version": "1.9.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

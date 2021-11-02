@@ -1,0 +1,11 @@
+.DS_Store
+/build
+/.build
+/.swiftpm
+xcuserdata/
+
+# Ignore local xcconfig files
+*.local.xcconfig
+
+# Ignore `datadog-ci` log for uploading dSYM files
+datadog-ci.txt
